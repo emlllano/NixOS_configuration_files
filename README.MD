@@ -1,5 +1,3 @@
-README
-
 place in /etc/nixos/configuration.nix
 
 feel free to use
